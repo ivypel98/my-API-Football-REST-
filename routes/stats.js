@@ -23,6 +23,11 @@ const getStats = async (req, res, next) => {
 
 module.exports = router;
 
+
+
+
+const statsFilePath = (path.join(__dirname, './stats.json'));
+
 const createStats = async (req, res, next) => {
     try {
       const data = fs.readFileSync(statsFilePath);
