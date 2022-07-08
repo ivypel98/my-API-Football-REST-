@@ -22,7 +22,7 @@ Dans le cadre de la digitalisation de son système de gestion des statistiques d
 ---
 ## Comment utiliser l'API ?
 Cette API peut:
-- Créer et enregistrer les stats d'un joueur via **POST** <p style="background-color:yellow">https://git.heroku.com/lit-ravine-57639.git/api/V1/stats</p>
+- Créer et enregistrer les stats d'un joueur via **POST** <p style="background-color:yellow">https://git.heroku.com/lit-ravine-57639.com/api/V1/stats</p>
 
 
 - Obtenir les informarions d'un joueur à partir de son identifiant via **GET** <p style="background-color:yellow">https://lit-ravine-57639.herokuapp.com/api/v1/stats/101</p>
